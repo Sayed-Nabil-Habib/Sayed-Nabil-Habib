@@ -1,15 +1,1 @@
-### Hi there 👋
-
-<!--
-**Sayed-Nabil-Habib/Sayed-Nabil-Habib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my Portfolio 1 
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on all my projects
-- 🤔 I’m looking for help on my learning, always good to learn more
-- 💬 Ask me about anything you wonder 
-- 📫 How to reach me: nabilhabib2015@yahoo.com
-
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayed-nabil-habib)](https://github.com/anuraghazra/github-readme-stats)
